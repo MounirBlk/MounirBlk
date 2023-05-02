@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**MounirBlk/MounirBlk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hello, I’m @MounirBlk
+- 👀 I’m interested in development, testing and cybersecurity
+- 🔭 I’m currently working on many projects
+- 🌱 I’m currently learning VueTS and NodeTS
+- 💞️ I’m looking to collaborate on a project Vue
+- 📫 How to reach me lucien.mou.pro@gmail.com
 
-Here are some ideas to get you started:
+<!---
+MounirBlk/MounirBlk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

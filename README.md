@@ -10,7 +10,7 @@
 <br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
-<img align="center" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MounirBlk&exclude_repo=github-readme-stats*&layout=donut&langs_count=10&theme=radical" />
+<img align="center" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MounirBlk&exclude_repo=github-readme-stats*&layout=donut&langs_count=7&theme=radical" />
 <img align="center" alt="My Github Stats" src="https://github-readme-stats-peach-ten-65.vercel.app/api?username=MounirBlk&count_private=true&show_icons=true&theme=radical" />
 </div>
 <!---

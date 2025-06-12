@@ -14,14 +14,16 @@
 <img align="center" alt="My Github Stats" src="https://github-readme-stats-peach-ten-65.vercel.app/api?username=MounirBlk&count_private=true&show_icons=true&theme=radical" />
 </div>-->
 <h2 align="center">⚡ Stats ⚡</h2>
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <div style="width: 300px; height: 300px;">
-    <img style="width: 100%; height: 100%; object-fit: contain;" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MounirBlk&exclude_repo=github-readme-stats*&layout=donut&langs_count=8&theme=radical" />
-  </div>
-  <div style="width: 300px; height: 300px;">
-    <img style="width: 100%; height: 100%; object-fit: contain;" alt="My Github Stats" src="https://github-readme-stats-peach-ten-65.vercel.app/api?username=MounirBlk&count_private=true&show_icons=true&theme=radical" />
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td style="text-align: center; vertical-align: middle;">
+      <img alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MounirBlk&exclude_repo=github-readme-stats*&layout=donut&langs_count=8&theme=radical" style="max-width: 300px; max-height: 300px;"/>
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <img alt="My Github Stats" src="https://github-readme-stats-peach-ten-65.vercel.app/api?username=MounirBlk&count_private=true&show_icons=true&theme=radical" style="max-width: 300px; max-height: 300px;"/>
+    </td>
+  </tr>
+</table>
 <!---
 MounirBlk/MounirBlk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

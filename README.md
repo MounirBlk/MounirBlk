@@ -24,7 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MounirBlk&layout=compact&langs_count=8&theme=radical&hide_border=true" width="48%" />
 </p>
 
----
 <!---
 MounirBlk/MounirBlk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

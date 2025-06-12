@@ -7,12 +7,24 @@
 - 💞️ I’m looking to collaborate on a project Vue
 - 📫 How to reach me lucien.mou.pro@gmail.com
   
-<br>
-<h2 align="center">⚡ Stats ⚡</h2>
-<div align="center">
-<img align="center" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MounirBlk&exclude_repo=github-readme-stats*&layout=donut&langs_count=7&theme=radical" />
-<img align="center" alt="My Github Stats" src="https://github-readme-stats-peach-ten-65.vercel.app/api?username=MounirBlk&count_private=true&show_icons=true&theme=radical" />
-</div>
+---
+
+### 🛠️ Technologies & outils
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,ts,flutter,dart,mongodb,react,html,css,git,github,vercel,linux&theme=dark" />
+</p>
+
+---
+
+### 📈 Stats GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MounirBlk&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MounirBlk&layout=compact&langs_count=8&theme=radical&hide_border=true" width="48%" />
+</p>
+
+---
 <!---
 MounirBlk/MounirBlk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

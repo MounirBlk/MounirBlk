@@ -8,7 +8,7 @@
 - 📫 How to reach me lucien.mou.pro@gmail.com
   
 ---
-
+<!---
 ### 🛠️ Technologies & outils
 
 <p align="left">
@@ -16,6 +16,7 @@
 </p>
 
 ---
+--->
 
 ### 📈 Stats GitHub
 

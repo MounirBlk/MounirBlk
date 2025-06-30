@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there
 
 - 👋 Hello, I’m @MounirBlk
 - 👀 I’m interested in development, testing and cybersecurity
